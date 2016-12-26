@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">everyTHING</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">Add a THING</string>
+    <string name="title_activity_action">ActionActivity</string>
+    <string name="title_activity_attention_lights">AttentionLights</string>
+    <string name="title_activity_lpgnotifier">LPG Notifier</string>
+</resources>
