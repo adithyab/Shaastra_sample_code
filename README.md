@@ -24,6 +24,6 @@
 8. The phone, since it constantly pings Hasura the data gets updated 
 for the phone.
 
-ESP <-> Raspi    : Socket Commnication
-Raspi <-> Hasura : HTTP
+ESP <-> Raspi    : Socket Commnication<br>
+Raspi <-> Hasura : HTTP<br>
 Hasura <-> Phone : HTTP
