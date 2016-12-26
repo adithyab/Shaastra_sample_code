@@ -2,9 +2,9 @@
 
 * Team name: everyTHING
 * Members
-   * Adithya Balaji
-   * Anirudh Swaminathan
-   * Sudharsan ST   
+   * [Adithya Balaji](https://github.com/adithyab)
+   * [Anirudh Swaminathan](https://github.com/Anirudh-Swaminathan)
+   * [Sudharsan ST](https://github.com/parakalan) 
 
 ## Sample code:
 
