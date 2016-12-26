@@ -22,7 +22,12 @@
 6. Phone and the Pi make API calls.
 7. If new data, Pi sends data to Hasura.
 8. The phone, since it constantly pings Hasura the data gets updated 
-for the phone.
+ for the phone.
+ 
+Data Analytics is done at the server side on Hasura Platform on the sensor data.<br/>
+For example, water sensor data can be analyzed using classification algorithms such as
+Logistic regression or neural networks so as to know wether the water tank is going to 
+overflow or not.
 
 ESP <-> Raspi    : Socket Commnication<br>
 Raspi <-> Hasura : HTTP<br>
